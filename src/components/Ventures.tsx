@@ -22,7 +22,7 @@ const ventures = [
   },
   {
     name: 'Webllisto Technologies',
-    role: 'Former Founder',
+    role: 'Founder',
     description: 'Led strategic growth and development of digital solutions.',
     link: 'https://webllisto.com/',
   },
