@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-75 blur group-hover:opacity-100 transition duration-300" />
             <img
               src={ProfilePic}
-              alt="Piyush Singh - Entrepreneur and Business Leader"
+              alt="Piyush Singh - Entrepreneur, Metaverse Expert & Blockchain Advocate"
               className="w-32 h-32 rounded-full mx-auto object-cover relative transform group-hover:scale-105 transition duration-300"
             />
           </div>
@@ -28,17 +28,17 @@ const Hero = () => {
             Piyush Singh
           </h1>
           <p className="text-xl sm:text-2xl text-gray-300 mb-6 opacity-90">
-            Entrepreneur, Metaverse Advocate, and Business Leader
+            Entrepreneur, Metaverse Expert & Blockchain Advocate
           </p>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-12">
-            Driving Innovation in Technology and Beyond
+            Leading innovation in Blockchain, shaping the future of the Metaverse, and empowering digital transformation.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
               href="#ventures"
               className="primary-button"
             >
-              Explore my ventures
+              Explore My Ventures
             </a>
             <a
               href="https://www.linkedin.com/in/piyushsinghxyz/"
