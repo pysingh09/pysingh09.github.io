@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-75 blur group-hover:opacity-100 transition duration-300" />
             <img
               src={ProfilePic}
-              alt="Piyush Singh"
+              alt="Piyush Singh - Entrepreneur and Business Leader"
               className="w-32 h-32 rounded-full mx-auto object-cover relative transform group-hover:scale-105 transition duration-300"
             />
           </div>
