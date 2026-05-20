@@ -33,13 +33,11 @@ const Hero = () => {
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
             Piyush Singh
           </h1>
-          {/* UPDATED Tagline */}
           <p className="text-xl sm:text-2xl text-gray-300 mb-6 opacity-90">
-            AI, Blockchain & Metaverse Entrepreneur
+            Founder & CEO — AI, Web3 & the Metaverse
           </p>
-          {/* UPDATED Description */}
           <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-12">
-            Driving innovation at the intersection of Artificial Intelligence (AI), Blockchain, and the Metaverse to empower digital transformation.
+            Founder of MadeYou AI and CEO of XANA India — 9+ years building and scaling ventures across Artificial Intelligence, Web3, and the Metaverse.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a

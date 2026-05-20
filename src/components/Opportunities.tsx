@@ -2,16 +2,16 @@ import React from 'react';
 
 const opportunities = [
   {
+    company: 'MadeYou AI',
+    title: 'Join the Founding Team',
+    description:
+      'Building the team behind an AI-powered social platform. Looking for engineers, designers, and product thinkers — and open to early collaborators and investors.',
+  },
+  {
     company: 'Alphacodr',
     title: 'Dubai Expansion',
     description:
       'Looking to establish strategic partnerships in Dubai. Interested in connecting with local businesses, marketing specialists, and business development experts.',
-  },
-  {
-    company: 'Purda',
-    title: 'MVP Development',
-    description:
-      'Seeking skilled engineers, designers, and product managers experienced in audio tech. Open to investors eager to support cutting-edge innovation.',
   },
 ];
 

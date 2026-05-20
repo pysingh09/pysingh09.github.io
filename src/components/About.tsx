@@ -1,17 +1,16 @@
 import React from 'react';
 
 const About = () => {
-  // Updated skills list: Added AI, removed ANC (assuming it was less relevant)
   const skills = [
-    'Artificial Intelligence (AI)', // Added AI
-    'Blockchain',
-    'Metaverse', // Kept Metaverse
-    'Business Development',
-    'Strategy',
-    'Leadership',
-    'Web3',
+    'Artificial Intelligence (AI)',
+    'Blockchain & Web3',
+    'Metaverse',
+    'AWS & Cloud',
+    'Full-Stack Development',
     'Product Development',
-    // 'Active Noise Cancellation (ANC)', // Removed - Add back if relevant!
+    'Business Strategy',
+    'Startup Scaling',
+    'Leadership',
   ];
 
   return (
@@ -22,16 +21,16 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-start"> {/* Added items-start for better alignment */}
           <div>
             <p className="text-gray-300 mb-6">
-              Dynamic leader with a proven track record in building and scaling businesses.
-              Currently serving as the CEO of XANA India and Co-founder of Alphacodr,
-              I bring extensive experience in business development, growth, and strategy
-              across diverse markets, including Dubai, UAE. {/* Added location context */}
+              Dynamic founder with 9+ years building and scaling technology ventures.
+              Currently Founder of MadeYou AI, CEO of XANA India, and Director at Alphacodr,
+              I bring deep experience in product, growth, and strategy
+              across markets from Indore to Dubai, UAE.
             </p>
             <p className="text-gray-300 mb-6">
-              As a Forbes Business Council Member, I'm passionate about leveraging technology
+              As a Forbes Business Council member and AWS Certified Solutions Architect, I'm passionate about leveraging technology
               to drive innovation, with a particular focus on <span className="font-semibold text-gray-100">AI (Artificial Intelligence)</span>, the <span className="font-semibold text-gray-100">Metaverse</span>, <span className="font-semibold text-gray-100">Blockchain</span>, and
-              cutting-edge product development. My journey includes successful leadership roles
-              at Webllisto Technologies and significant contributions to <a href="https://purda.in" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 hover:underline transition-colors duration-200">"Purda: Reclaim Your Quiet."</a>
+              full-stack product development. My journey began with founding Webllisto Technologies in 2018,
+              and now centers on <a href="https://madeyou.ai" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 hover:underline transition-colors duration-200">MadeYou AI</a> — an AI-powered platform for more meaningful human connection.
             </p>
           </div>
           <div>

@@ -12,7 +12,7 @@ const Contact = () => {
         <h2 className="section-heading">Let's Connect</h2>
         <div className="max-w-3xl mx-auto text-center">
           <p className="text-gray-400 mb-8">
-            Interested in collaborating, discussing innovative ideas, or exploring opportunities in Web3 and Blockchain? Reach out directly or connect through my ventures. You can also send a message using the form below. {/* Added mention of the form */}
+            Interested in collaborating, discussing innovative ideas, or exploring opportunities in AI, Web3, and the Metaverse? Reach out directly or connect through my ventures. You can also send a message using the form below. {/* Added mention of the form */}
           </p>
 
           {/* Keep existing contact links */}
@@ -109,18 +109,26 @@ const Contact = () => {
           <div className="flex flex-wrap justify-center gap-4 mt-10">
              <p className="w-full text-gray-400 mb-2">Explore my ventures:</p> {/* Added context for buttons */}
             <a
-              href="https://purda.in/"
+              href="https://madeyou.ai"
               target="_blank"
               rel="noopener noreferrer"
-              className="secondary-button inline-flex items-center gap-2" // Changed to secondary button for distinction? Adjust as needed.
+              className="secondary-button inline-flex items-center gap-2"
             >
-              Purda <ExternalLink size={16} />
+              MadeYou AI <ExternalLink size={16} />
+            </a>
+            <a
+              href="https://xana.net/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="secondary-button inline-flex items-center gap-2"
+            >
+              XANA India <ExternalLink size={16} />
             </a>
             <a
               href="https://alphacodr.com/"
               target="_blank"
               rel="noopener noreferrer"
-              className="secondary-button inline-flex items-center gap-2" // Changed to secondary button for distinction? Adjust as needed.
+              className="secondary-button inline-flex items-center gap-2"
             >
               Alphacodr <ExternalLink size={16} />
             </a>

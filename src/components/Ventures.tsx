@@ -3,27 +3,27 @@ import { ExternalLink } from 'lucide-react';
 
 const ventures = [
   {
+    name: 'MadeYou AI',
+    role: 'Founder',
+    description: 'An AI-powered social engagement platform where people set personal communication goals and autonomous AI agents help spark meaningful conversations.',
+    link: 'https://madeyou.ai',
+  },
+  {
     name: 'XANA India',
     role: 'CEO',
     description: 'Leading the Indian operations of XANA, a pioneering metaverse platform.',
     link: 'https://xana.net/',
   },
   {
-    name: 'Purda',
-    role: 'Founder',
-    description: 'Revolutionary active noise cancellation technology for a quieter world.',
-    link: 'https://purda.in',
-  },
-  {
-    name: 'Protonshub',
-    role: 'Co-founder',
-    description: 'Building innovative technology solutions for businesses worldwide.',
-    link: 'https://protonshub.com/',
+    name: 'Alphacodr',
+    role: 'Director',
+    description: 'Driving product and growth strategy at Alphacodr, a Dubai-based technology company.',
+    link: 'https://alphacodr.com/',
   },
   {
     name: 'Webllisto Technologies',
     role: 'Founder',
-    description: 'Led strategic growth and development of digital solutions.',
+    description: 'Founded in 2018 — built and scaled custom digital and blockchain solutions for global clients.',
     link: 'https://webllisto.com/',
   },
 ];
